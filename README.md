@@ -8,7 +8,7 @@ ARDPIC is a programmer LVP (Low Voltage Programming), based on an ARDUINO board
 ### Features
 - interface to controlling the programmer
 - .hex file selector
-- Support for PIC 16f877a
+- Support for PIC 16f877a only
 - Development the version 2
 
 ### HOW TO USE
