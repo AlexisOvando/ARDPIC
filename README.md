@@ -28,3 +28,4 @@ Now, inside the GUI folder, you can find two more files, inside the dist folder,
 
 - step 5:
 You can program any pic 16f877a, just click on program, and enjoy!!
+![ARDPIC](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/program.png)
