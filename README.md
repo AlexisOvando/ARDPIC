@@ -34,7 +34,20 @@ You can program any pic 16f877a, just click on program, and enjoy!!
 
 ![ARDPIC](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/program.png)
 
+
+
+
+### NOTES
+If ypu didint find the port COM on the bar selector, can be need install the driver CH340 for your board, in some cases, the port COM is not available because other
+program is using the port or the physic driver (chip) is burn
+
+
+
+
+
 ----------------------- ESPAÑOL --------------------------------------
+
+
 ### RESUMEN
 ARDPIC es un programador LVP (Low Voltage Programming), basado en una placa ARDUINO
 
@@ -64,4 +77,11 @@ Ahora, **dentro de la carpeta GUI, puedes encontrar dos archivos mas, dentro de 
   Ya puedes programar cualquier pic 16f877a, simplemente has clic en programar, y disfruta c: !!!
   
 ![ARDPIC](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/program.png)
+
+### NOTAS
+
+Si no encuentras el puerto COM de tu placa en el selector de barra, puede que necesites instalar el driver CH340, algunas veces el puerto COM no esta disponible porque otra aplicación 
+esta usando el puerto o el driver a nivel fisico esta quemado. 
+  
+
 
