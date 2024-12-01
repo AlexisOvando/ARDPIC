@@ -20,6 +20,11 @@ Download the .zip file, you will find inside two files, the .ino file must be lo
 
 - step 3: 
 Now you have to connect the arduino board to the PIC, to do this, follow the  image bellow, if you need some information, you can read the PIC documentation in the next link. [PIC16F877A](https://ww1.microchip.com/downloads/en/devicedoc/39582b.pdf "PIC16F877A")
-![Descripción de la imagen](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/DIAGRAMA.PNG)
+![Diagrama](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/DIAGRAMA.PNG)
 
+- step 4:
+Now, inside the GUI folder, you can find two more files, inside the dist folder, you find the .exe, just run it, the following screen will open, select the port of your arduino and the address of your .hex file
+![ARDPIC](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/ARDPIC.png)
 
+- step 5:
+You can program any pic 16f877a, just click on program, and enjoy!!
