@@ -20,3 +20,5 @@ Download the .zip file, you will find inside two files, the .ino file must be lo
 
 - step 3: 
 Now you have to connect the arduino board to the PIC, to do this, follow the  image bellow, if you need some information, you can read the PIC documentation in the next link. [PIC16F877A](https://ww1.microchip.com/downloads/en/devicedoc/39582b.pdf "PIC16F877A")
+
+
