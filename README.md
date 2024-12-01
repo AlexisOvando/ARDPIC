@@ -38,7 +38,7 @@ You can program any pic 16f877a, just click on program, and enjoy!!
 
 
 ### NOTES
-If ypu didint find the port COM on the bar selector, can be need install the driver CH340 for your board, in some cases, the port COM is not available because other
+If you didint find the port COM on the bar selector, can be need install the driver CH340 for your board, in some cases, the port COM is not available because other
 program is using the port or the physic driver (chip) is burn
 
 
