@@ -45,7 +45,7 @@ ARDPIC es un programador LVP (Low Voltage Programming), basado en una placa ARDU
 Descargue el archivo .zip, encontrará dentro dos archivos, el archivo .ino debe ser cargado en cualquier placa arduino, el segundo archivo, es el ARDPIC GUI, es un archivo .exe, solo ejecútelo. 
 
 - paso 2: 
-Ahora tienes que conectar la placa arduino al PIC, para ello, sigue la imagen de abajo, si necesitas algo de información, puedes leer la documentación del PIC en el siguiente enlace. [PIC16F877A](https://ww1.microchip.com/downloads/en/devicedoc/39582b.pdf «PIC16F877A»)
+Ahora tienes que conectar la placa arduino al PIC, para ello, sigue la imagen de abajo, si necesitas algo de información, puedes leer la documentación del PIC en el siguiente enlace. [PIC16F877A]
 ![Diagrama](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/DIAGRAMA.PNG)
 
 - paso 3:
