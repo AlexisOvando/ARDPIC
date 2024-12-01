@@ -56,4 +56,3 @@ Ahora, dentro de la carpeta GUI, puedes encontrar dos archivos mas, dentro de la
 ¡¡¡Usted puede programar cualquier pic 16f877a, simplemente haga clic en programar, y disfrutar!!!
 ![ARDPIC](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/program.png)
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
