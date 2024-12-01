@@ -18,6 +18,7 @@ en el programa de Python y antes de elegir una opción, conecta el pin MCLR del 
 así que simplemente reconecta el pin MCLR y PGM al Arduino para probarlo.
 
 Programa revisado por AYOP, 01/12/2024, si necesitas ayuda mandame un correo C: 
+alexyera2000@gmail.com
 
 */
 
