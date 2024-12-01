@@ -18,14 +18,20 @@ Download the .zip file, you will find inside two files, the .ino file must be lo
 
 - step 2: 
 Now you have to connect the arduino board to the PIC, to do this, follow the  image bellow, if you need some information, you can read the PIC documentation in the next link. [PIC16F877A](https://ww1.microchip.com/downloads/en/devicedoc/39582b.pdf "PIC16F877A")
+
+
 ![Diagrama](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/DIAGRAMA.PNG)
 
 - step 3:
-Now, inside the GUI folder, you can find two more files, inside the dist folder, you find the .exe, just run it, the following screen will open, select the port of your arduino and the address of your .hex file
+Now, **inside the GUI folder, you can find two more files, inside the dist folder, you find the .exe, just run it, the following screen will open, select the port of your arduino and the address of your .hex file**
+
+
 ![ARDPIC](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/ARDPIC.png)
 
 - step 4:
 You can program any pic 16f877a, just click on program, and enjoy!!
+
+
 ![ARDPIC](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/program.png)
 
 ----------------------- ESPAÑOL --------------------------------------
@@ -50,7 +56,7 @@ Ahora tienes que conectar la placa arduino al PIC, para ello, sigue la imagen de
 ![Diagrama](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/DIAGRAMA.PNG)
 
 - paso 3:
-Ahora, dentro de la carpeta GUI, puedes encontrar dos archivos mas, dentro de la carpeta dist, encuentras el .exe, solo ejecutalo, se abrira la siguiente pantalla, selecciona el puerto de tu arduino y la direccion de tu archivo .hex
+Ahora, **dentro de la carpeta GUI, puedes encontrar dos archivos mas, dentro de la carpeta dist, encuentras el .exe, solo ejecutalo, se abrira la siguiente pantalla, selecciona el puerto de tu arduino y la direccion de tu archivo .hex**
 
 ![ARDPIC](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/ARDPIC.png)
 
