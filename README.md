@@ -36,7 +36,7 @@ ARDPIC es un programador LVP (Low Voltage Programming), basado en una placa ARDU
 ### Características
 - interfaz para controlar el programador
 - Selector de archivos .hex
-- Soporte para PIC 16f877a
+- Soporte solamente para PIC 16f877a
 - Desarrollo de la versión 2
 
 ### COMO USAR
