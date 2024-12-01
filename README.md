@@ -46,13 +46,16 @@ Descargue el archivo .zip, encontrará dentro dos archivos, el archivo .ino debe
 
 - paso 2: 
 Ahora tienes que conectar la placa arduino al PIC, para ello, sigue la imagen de abajo, si necesitas algo de información, puedes leer la documentación del PIC en el siguiente enlace, [PIC16F877A](https://ww1.microchip.com/downloads/en/devicedoc/39582b.pdf "PIC16F877A")
+
 ![Diagrama](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/DIAGRAMA.PNG)
 
 - paso 3:
 Ahora, dentro de la carpeta GUI, puedes encontrar dos archivos mas, dentro de la carpeta dist, encuentras el .exe, solo ejecutalo, se abrira la siguiente pantalla, selecciona el puerto de tu arduino y la direccion de tu archivo .hex
+
 ![ARDPIC](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/ARDPIC.png)
 
 - paso 4:
-¡¡¡Usted puede programar cualquier pic 16f877a, simplemente haga clic en programar, y disfrutar!!!
+  Ya puedes programar cualquier pic 16f877a, simplemente has clic en programar, y disfruta c: !!!
+  
 ![ARDPIC](https://github.com/AlexisOvando/ARDPIC/blob/main/ARDPIC/program.png)
 
